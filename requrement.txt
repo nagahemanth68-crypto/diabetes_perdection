@@ -6,4 +6,3 @@ scikit-learn
 gunicorn
 matplotlib
 
-Then run this command in terminal to install the libraries.
